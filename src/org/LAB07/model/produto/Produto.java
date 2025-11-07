@@ -1,4 +1,4 @@
-package org.LAB07.model;
+package org.LAB07.model.produto;
 
 public class Produto {
     protected String nome;

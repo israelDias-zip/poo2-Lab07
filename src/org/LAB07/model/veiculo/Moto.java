@@ -1,4 +1,4 @@
-package org.LAB07.model;
+package org.LAB07.model.veiculo;
 
 public class Moto extends Veiculo {
     private int cilindrada;

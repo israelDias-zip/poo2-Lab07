@@ -1,4 +1,4 @@
-package org.LAB07.model;
+package org.LAB07.model.funcionario;
 
 public class FuncionarioBase {
     protected String nome;

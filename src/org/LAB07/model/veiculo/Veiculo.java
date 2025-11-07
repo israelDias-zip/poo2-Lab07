@@ -1,4 +1,4 @@
-package org.LAB07.model;
+package org.LAB07.model.veiculo;
 
 public class Veiculo {
     protected String marca;
